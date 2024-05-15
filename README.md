@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💌💌
+Me chamo Laurinha :)
 
-<!--
-**08Laurinha/08Laurinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando o [Alura] (https://www.alura.com.br)
+- Estou desenvolvento na linguagem JavaScript
+- Estou utilizando este espaço para organizar meus projetos
 
-Here are some ideas to get you started:
+⭐ Sempre que precisar pode entrar em contato comigo via instagram:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@lauraa_beatriizz 
+
+Espero que goste dos meus projetos 💙
+
+![](https://media1.tenor.com/m/IotFlRopCFQAAAAC/princesita-sof%C3%ADa.gif)
